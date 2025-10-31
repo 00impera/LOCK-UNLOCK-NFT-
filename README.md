@@ -1,6 +1,7 @@
-<img width="800" height="800" alt="locked" src="https://github.com/user-attachments/assets/e6217ccc-6a17-4b82-98ac-c3d040c4195e" />
+
 <img width="800" height="800" alt="locked" src="https://github.com/user-attachments/assets/8f6f4f65-775e-4d08-905b-7f8b734544a7" />
-✨ What It Does:
+<img width="800" height="800" alt="download" src="https://github.com/user-attachments/assets/04cff51b-fe82-435f-9703-9f6f6c390eac" />
+
 
 📤 Upload - Drag & drop or click to upload your NFT image
 🎨 Auto-Preview - See original vs locked side-by-side
